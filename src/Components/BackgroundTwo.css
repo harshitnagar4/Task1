@@ -1,0 +1,23 @@
+#cardFirst {
+    margin-top: 25px;
+    width: 90% !important;
+    height: -webkit-max-content;
+    height: max-content;
+    margin-bottom: 15px;
+    margin-left: 0.7rem !important;
+}
+#enrollBtn{
+    border: 1px solid #2242f5;
+    font-size: 1.3rem !important;
+    font-family: "FuturaPTBold" !important;
+    border-radius: 5px;
+    z-index: 1;
+    width: 23% auto;
+    padding-top: 5px;
+    background-color: #2f2f2f;
+    color: #fff !important;
+}
+#pText{
+    display: inline-block;
+    width: 100%;
+}

@@ -1,0 +1,137 @@
+#bgthree {
+  background-image: url("../assets/image/blog1.png");
+}
+#blogbtn {
+  border: 1px solid #2242f5;
+  font-size: 1.3rem !important;
+  font-family: "FuturaPTBold" !important;
+  border-radius: 5px;
+  z-index: 1;
+  width: 23% auto;
+  padding-top: 5px;
+  background-color: #2f2f2f;
+  color: #fff !important;
+  text-decoration: none;
+}
+#blogimg img {
+  margin: auto;
+}
+.meta .photo {
+  position: relative;
+  z-index: 0;
+  margin: auto;
+}
+/* #trouble{
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: 0.5rem;
+    height: 100px;
+    padding-top: 2rem;
+} */
+#secondCard {
+  width: 90% !important;
+  height: -webkit-max-content;
+  height: max-content;
+  margin-bottom: 10px;
+  margin-left: 0.7rem;
+}
+#descrip {
+  padding: 2.23rem;
+  background: #fff;
+  /* position: relative; */
+  /* width: 70vw; */
+  z-index: 0;
+}
+#descrip .enrollblog {
+  border: 1px solid #2242f5;
+  font-size: 1.3rem !important;
+  padding-top: 5px;
+  background-color: #2f2f2f;
+  border-radius: 5px;
+  z-index: 1;
+  color: #fff;
+}
+#descrip .enrollblog a {
+  text-decoration: none;
+}
+#blog5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 70% !important;
+  border-radius: 50%;
+  background-color: rgb(245, 245, 245);
+}
+#blog5Card1 {
+  margin-top: 25px;
+  width: 90% !important;
+  height: -webkit-max-content;
+  height: max-content;
+  margin-bottom: 15px;
+  margin-left: 0.7rem !important;
+}
+#blog5Card2 {
+  width: 90% !important;
+  margin-bottom: 10px;
+  margin-left: 0.7rem;
+  height: 70%;
+  background-color: rgb(245, 245, 245);
+  margin-top: 0rem;
+}
+#blog5Card2 .card-body {
+  flex: 1 1 auto;
+  padding: 1rem;
+  margin: 13.2% auto auto;
+  width: 90%;
+}
+#blog5CardText {
+  display: inline-block;
+  width: 100%;
+  text-align: justify;
+  font-size: 18px;
+}
+#blog6card1 {
+  margin-top: 0%;
+  background-color: rgb(233, 233, 234);
+}
+#blog7text {
+  font-weight: bolder;
+  margin-left: 0.5rem;
+  /* height: 100px; */
+  padding-top: 2rem;
+}
+#blog8 {
+  padding: 0rem;
+  height: 300px;
+  margin: auto;
+  width: 49%;
+  background-color: rgb(233, 233, 234)
+}
+.arrange {
+  /* margin-top: 4.7rem !important; */
+  width: 55% !important;
+  margin: auto;
+}
+#blog8card2 {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  background-color: rgb(233, 233, 234)
+}
+#blog8card2 .card{
+  background-color: rgb(233, 233, 234)
+}
+#blog8 .card{
+  background-color: rgb(233, 233, 234)
+}
+#blog8card2frame {
+  padding: 0rem;
+  background-color: rgb(245, 245, 245);
+  height: 350px;
+  margin: auto;
+}
+#blog8card2frame iframe {
+  height: 100%;
+  width: 90%;
+  margin: 3.24% auto auto;
+}
